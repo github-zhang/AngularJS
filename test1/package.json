@@ -1,0 +1,15 @@
+{
+  "name": "test1",
+  "version": "0.0.0",
+  "description": "first test",
+  "main": "b.js",
+  "scripts": {
+    "test": "ssss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitRe"
+  },
+  "author": "wyl",
+  "license": "ISC"
+}
